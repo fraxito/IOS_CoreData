@@ -13,6 +13,7 @@
 		837AAA441E51F4D200DFD531 /* EjemploCoreData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 837AAA421E51F4D200DFD531 /* EjemploCoreData.xcdatamodeld */; };
 		837AAA461E51F4D200DFD531 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 837AAA451E51F4D200DFD531 /* Assets.xcassets */; };
 		837AAA491E51F4D200DFD531 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 837AAA471E51F4D200DFD531 /* LaunchScreen.storyboard */; };
+		837AAA511E51F81100DFD531 /* ListaGatosTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837AAA501E51F81100DFD531 /* ListaGatosTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		837AAA451E51F4D200DFD531 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		837AAA481E51F4D200DFD531 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		837AAA4A1E51F4D200DFD531 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		837AAA501E51F81100DFD531 /* ListaGatosTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListaGatosTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				837AAA3B1E51F4D200DFD531 /* AppDelegate.swift */,
 				837AAA3D1E51F4D200DFD531 /* ViewController.swift */,
 				837AAA3F1E51F4D200DFD531 /* Main.storyboard */,
+				837AAA501E51F81100DFD531 /* ListaGatosTableViewController.swift */,
 				837AAA451E51F4D200DFD531 /* Assets.xcassets */,
 				837AAA471E51F4D200DFD531 /* LaunchScreen.storyboard */,
 				837AAA4A1E51F4D200DFD531 /* Info.plist */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				837AAA511E51F81100DFD531 /* ListaGatosTableViewController.swift in Sources */,
 				837AAA3E1E51F4D200DFD531 /* ViewController.swift in Sources */,
 				837AAA441E51F4D200DFD531 /* EjemploCoreData.xcdatamodeld in Sources */,
 				837AAA3C1E51F4D200DFD531 /* AppDelegate.swift in Sources */,
